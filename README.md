@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Coding">
+  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Coding" >
 </p>
 <h1 align="center">Hi 👋, I'm Ashrakat Samaha</h1>
 <h3 align="center">A passionate Android Developer with 2 years of experience</h3>
@@ -24,7 +24,37 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrakatsamaha&show_icons=true&locale=en&layout=compact" alt="ashrakatsamaha" /></p>
 
 ---
+  ## 💼 Projects
 
+### Achroma Lens 
+- Developed an Android app to assist **5,000+ colorblind users** with real-time color detection using advanced Gemini technology, achieving a **30% improvement in usability**.
+- Improved the quality of life for over 5,000+ colorblind users, achieving a **4.8/5 user rating** on Google Play.
+- Increased app stability by **30%** through enhanced filter design and real-time feedback mechanism.
+
+### Craftsmen App 
+- Designed and developed an app connecting users with skilled professionals, leading to **40% faster service access**.
+- Integrated advanced search and filtering features, reducing user effort by **25%**.
+- Implemented a rating and filtering system based on rate, location, profession, and ratings, resulting in **40% faster service** and **25% reduction in user frustration**.
+- Designed a user-friendly interface that improved user engagement by **35%** and increased service reach by streamlining communication processes.
+
+### News App 
+- Developed an Android news app with real-time updates, personalized newsfeeds, and push notifications for breaking news.
+- Reduced crash rates by **40%**, achieving a **99.5% stability rate** with robust exception handling processes.
+- Built using Kotlin, Retrofit, MVVM, and Navigation components, improving app stability to **99.5%** and delivering a **20% faster response time** for an enhanced user experience.
+
+### Meals App
+- Developed an app for exploring and managing meal recipes using MVVM for better separation of concerns
+- Coroutines for efficient asynchronous programming, and Retrofit for seamless integration with RESTful APIs.
+- Incorporated Dependency Injection (Hilt) to enhance scalability and Clean Architecture for maintainable and testable code.
+- Used Jetpack Compose for a modern, declarative UI design.
+
+### Taste Talk
+- Created an intelligent chatbot app using MVVM and Coroutines.
+- Integrated Gemini AI to provide real-time answers to users' food-related queries.
+- Enabled users to copy and save chatbot responses locally using Room Database for offline access.
+- Leveraged Dependency Injection (Hilt) for modular and scalable code, and implemented Clean Architecture for maintainability.
+
+---
 ## 🚀 Skills
 
 - **Programming Languages:** Kotlin, Java
